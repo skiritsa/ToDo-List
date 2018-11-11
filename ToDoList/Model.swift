@@ -8,7 +8,7 @@
 
 import Foundation
 
-var ToDoItems: [String] = ["Позвонить маме", "Написать приложение", "Протестировать"]
+var ToDoItems: [String] = ["Позвонить маме", "Написать приложение", "Протестировать", "123"]
 
 func addItem (nameItem: String) {
     ToDoItems.append(nameItem)
