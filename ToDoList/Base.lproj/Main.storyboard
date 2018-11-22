@@ -41,9 +41,7 @@
                             <outlet property="delegate" destination="RLQ-8W-hPf" id="t0y-uL-Nso"/>
                         </connections>
                     </tableView>
-                    <toolbarItems>
-                        <barButtonItem title="Item" id="5sl-Y2-KXT"/>
-                    </toolbarItems>
+                    <toolbarItems/>
                     <navigationItem key="navigationItem" title="ToDo Items" id="4Xm-er-5W2">
                         <rightBarButtonItems>
                             <barButtonItem systemItem="add" id="Rhb-4o-R0Y">
